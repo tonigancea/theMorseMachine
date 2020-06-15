@@ -18,6 +18,6 @@ To run this program, you will need Matlab. If you don't have Matlab, you can use
 ## Example
 
 Let's say we want to convert **...---...** to plain text\
-The command is the following: `baseConverter("... --- ...")`. **Please note that we used spaces between letters.** The result is `SOS`.
+The command is the following: `multiple_decode("... --- ...")`. **Please note that we used spaces between letters.** The result is `SOS`.
 
 Keep in mind that for any other input, the result is undefined.
